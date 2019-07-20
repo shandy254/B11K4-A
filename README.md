@@ -18,3 +18,9 @@ berikut cara menjalankan :
 -start Apache 
 -buka Chrome (pastikan extensions JSONView terinstal dan enabled) 
 -ketik di url "http://localhost/.."
+
+soal 2-6: 
+-buka https://www.onlinegdb.com/ 
+-pilih language : python3
+-copas code 
+-run
