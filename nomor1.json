@@ -13,11 +13,12 @@
                                                  ]     ,                                    
         
         "skills"                : [
-             {"skill_name" : "html", "level" : "advanced"           },
-             {"skill_name" : "php", "level" : "advanced"            },
-             {"skill_name" : "css", "level" : "advanced"            },
-             {"skill_name" : "javascript", "level" : "beginner"     },
-             {"skill_name" : "C", "level" : "advanced"              }
+             {"skill_name" : "html",            "level" : "advanced"},
+             {"skill_name" : "php",             "level" : "advanced"},
+             {"skill_name" : "css",             "level" : "advanced"},
+             {"skill_name" : "javascript",      "level" : "beginner"},
+             {"skill_name" : "C",               "level" : "advanced"},
+             {"skill_name" : "Python",          "level" : "beginner"}
                                                          ]                                                 ,  
         
 
